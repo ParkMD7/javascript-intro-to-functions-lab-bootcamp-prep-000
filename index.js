@@ -22,7 +22,7 @@ function sayHiToGrandma(string) {
 }
 
 function sayHiToGrandma(string) {
-  if(string === "HELLO!") {
+  if(string === "UpperCase") {
   return "YES INDEED!" }
 }
 
